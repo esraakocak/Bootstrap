@@ -1,2 +1,2 @@
-# Bootsrapt
+# Bootsrap
 Patika.dev 
